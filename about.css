@@ -1,0 +1,45 @@
+body{
+ background-color: #d8ddee;
+ margin:0;
+ padding:0;
+ line-height: 1.5;
+ font-size: 15px;
+ background-image:; /*res = 5000x3000*/
+ background-repeat: no-repeat;
+ background-size:cover;
+}
+header{
+margin-top: 20px;
+ background-color: maroon;
+ color:white;
+ padding-top:30px;
+ padding-bottom:20px;
+ padding-left: 20px;
+ min-height:70px;
+}
+nav a{
+  color:white;
+  text-transform: uppercase;
+
+}
+li{
+
+ float:left;
+ float:right;
+ display:inline;
+ padding: 0 20px 0 20px;
+}
+button{
+ background-color: white
+}
+p{
+ color:white;
+ font-family: sans-serif;
+ text-indent: 100px;
+ margin-top: 100px;
+ margin-left: 60px;
+}
+a{
+ text-decoration: underline;
+ color: maroon
+}
